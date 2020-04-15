@@ -1,0 +1,90 @@
+﻿No.,Classification Name,Major Category Codes ,Subcategories
+7,High Energy Use Intensity (High Energy),131,COMMUNICATIONS – BUILDINGS
+21,Miscellaneous,132,COMMUNICATIONS – OTHER THAN BUILDINGS 
+9,Administration (Admin) and Operations,133,NAV AND TRAFFIC AIDS – BUILDINGS
+21,Miscellaneous,134,NAV AND TRAFFIC AIDS – OTHER 
+21,Miscellaneous,136,AIRFIELD PAVEMENT LIGHTING 
+9,Administration (Admin) and Operations,137,SHIP NAV&TRAFFIC AIDS – BLDG
+9,Administration (Admin) and Operations,138,SHIP NAV&TRAFFIC AIDS – OTHER
+12,High Water Use Facilities (High Water Users),14,WASH BUILDINGS 
+11,Storage,142,OPERTNL HELIUM PLANTS&STRG 
+9,Administration (Admin) and Operations,143,SHIP & OTHER OPERTNL-BLDGS 
+21,Miscellaneous,151,PIERS 
+21,Miscellaneous,152,WHARFS 
+21,Miscellaneous,154,SEAWLS/BULKHDS/Q UAYWLS 
+21,Miscellaneous,155,SMALL CRAFT BERTHING 
+9,Administration (Admin) and Operations,156,CARGO HANDLING FAC/BLDGS 
+21,Miscellaneous,159,OTHER WATERFRONT OPERATION 
+21,Miscellaneous,16,HARBOR AND COASTAL FAC 
+10,Other Training and Schools,171,TRAINING BUILDINGS 
+7,High Energy Use Intensity (High Energy),172,SIMULATION FACILITIES
+20,Irrigated Land,179,PARADE FIELD 
+1,Industrial and Maintenance,212,MAINT – GUIDED MISSILES
+1,Industrial and Maintenance,213,MAINT – SHIPS/SPARES
+1,Industrial and Maintenance,214,MAINT – TANK/AUTOMOTIVE
+1,Industrial and Maintenance,215,"MAINT – WEAPONS, SPARES"
+1,Industrial and Maintenance,216,MAINT – AMMO/EXPLSV/TOXICS
+1,Industrial and Maintenance,217,MAINT – ELECNX/COMM EQUIP
+1,Industrial and Maintenance,218,MAINT – MISC MATL & EQUIPT
+1,Industrial and Maintenance,219,MAINT – INSTAL REPAIR & OPER
+1,Industrial and Maintenance,22,PRODUCTION
+1,Industrial and Maintenance,310,SCIENCE LABORATORIES
+9,Administration (Admin) and Operations,311,AIRCRAFT 
+9,Administration (Admin) and Operations,312,MISSILE AND SPACE 
+9,Administration (Admin) and Operations,314,TANK AND AUTOMOTIVE 
+9,Administration (Admin) and Operations,315,WEAPONS AND WEAPON SYSTEMS 
+9,Administration (Admin) and Operations,316,"AMMO, EXPLOSIVES & TOXICS "
+7,High Energy Use Intensity (High Energy),317,"ELECTRON, COMM & ELEC EQUIP"
+7,High Energy Use Intensity (High Energy),318,PROPULSION
+9,Administration (Admin) and Operations,32,UNDERWATER EQUIPMENT
+9,Administration (Admin) and Operations,37,RANGE FACILITIES
+9,Administration (Admin) and Operations,39,"RESEARCH, DEVELOPMENT, AND TEST OPERATIONS"
+11,Storage,421,AMMUNITION STRG DEP/INSTLN 
+11,Storage,423,AMMUNITION STRG LIQ PRPLNT 
+11,Storage,424,WPN – RELATED BATTERY STRG 
+21,Miscellaneous,425,OPEN AMMUNITION STRG PAD 
+11,Storage,43,COLD STORAGE 
+11,Storage,44,GENERAL SUPPLY BUILDINGS 
+8,Medical,51,MEDICAL CENTER/HOSPITAL
+8,Medical,54,DENTAL CLINICS
+8,Medical,55,DISPENSARIES/CLINICS
+9,Administration (Admin) and Operations,61,ADMIN BUILDINGS
+9,Administration (Admin) and Operations,62,ADMIN FACILITIES UNDERGROUND
+21,Miscellaneous,69,OTHER ADMINISTRATIVE FAC 
+2,Housing (Family),711,FAMILY HOUSING – DWELLINGS
+2,Housing (Family),712,SUBSTNRD TRAILERS – FAM HSG
+2,Housing (Family),713,FAMILY HOUSING – TRAILER SITE
+3,Housing (Transient),720,UNACOMP PERSONNEL HOUSING
+4,Housing (Barracks),721,UNACOMP PERS HOUS – ENL PERS
+6,Community and Commercial: Food,722,UNACOMP PERS HOUS – MESS FAC
+12,High Water Use Facilities (High Water Users),723,"LAUNDRY BUILDINGS, SHOWER "
+4,Housing (Barracks) ,724,UNACOMP PERS HOUS – OFF QTRS
+5,Community and Commercial: Non-food (indoor),730,COMMUNITY FAC-PERS SUPPORT
+19,Dependent Schools,73046,DEPENDENT SCHOOL 
+6,Community and Commercial: Food,7331,"COMM FAC – MOR, WEL & REC INTR"
+6,Community and Commercial: Food,7332,
+12,High Water Use Facilities (High Water Users),7342,
+12,High Water Use Facilities (High Water Users),7348,
+12,High Water Use Facilities (High Water Users),7385,
+5,Community and Commercial: Non-food (indoor),740,"COMM FAC – MOR, WEL & REC INTR"
+12,High Water Use Facilities (High Water Users),7422,CAR WASH 
+18,Community and Commercial: Non-food (outdoor),750,COMMUNITY FAC-MW&R-EXTER 
+12,High Water Use Facilities (High Water Users),75031,AQUATIC REC CENTER 
+20,Irrigated Land,7504,GOLF COURSE 
+12,High Water Use Facilities (High Water Users),75089,STEAM CLEANING 
+12,High Water Use Facilities (High Water Users),7512,SWIMMING POOLS 
+20,Irrigated Land,7603,CEMETERIES 
+21,Miscellaneous,811,ELECTRIC POWER – SOURCE 
+21,Miscellaneous,813,ELECTRIC PWR – SUB/SWTCH STA 
+21,Miscellaneous,821,HEAT-SOURCE 
+21,Miscellaneous,823,"HEAT, GAS – SOURCE "
+21,Miscellaneous,826,REFRIGERATION/AIR CONDTNG 
+21,Miscellaneous,831,SEWAGE-IND WASTE TRTMT&DSP 
+21,Miscellaneous,832,SEWAGE/IND WASTE COLLECTION 
+21,Miscellaneous,833,SOLID WASTE HANDLING FAC 
+21,Miscellaneous,841,POTABLE WATER SUP/TMT/STRG 
+21,Miscellaneous,843,"WATER, FIRE PROTECTION "
+21,Miscellaneous,844,WATER SUPPLY/STRG-NONPOTABLE 
+21,Miscellaneous,87,GROUND IMPROVEMENT STRUCTURE (DRAINAGE AND STORM SEWER) 
+21,Miscellaneous,88,FIRE AND OTHER ALARM SYSTEMS 
+20,Irrigated Land,932,"LANDSCAPE PLANTINGS, ETC. "
